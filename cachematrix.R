@@ -133,6 +133,6 @@ cacheSolve <- function(x, ...) {
 # 
 # tmComplete2 <-proc.time() - tmStart2
 # 
-# # Verify that first timing is longer than second
+# # Verify, if possible, that first timing is longer than second
 # tmComplete1
 # tmComplete2
